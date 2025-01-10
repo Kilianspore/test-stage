@@ -1,0 +1,8 @@
+{
+    "host_BDD":  "127.0.0.1",
+    "port_BDD":  3306,
+    "nom_BDD":  "test",
+    "user_BDD":  "root",
+    "mot_de_passe_BDD":  "test",
+    "lettre_port_usb":  "D"
+}
